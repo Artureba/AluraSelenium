@@ -1,4 +1,4 @@
-# Curso de Selenium WebDriver e C# parte 1 e parte 2!
+# Curso Alura de Selenium WebDriver e C# parte 1 e parte 2!
 
 # Faça esse curso de C# e:
 - Automatize ações que o usuário realiza em um navegador da Web
